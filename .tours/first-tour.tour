@@ -1,0 +1,11 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "first tour",
+  "steps": [
+    {
+      "file": "Main.java",
+      "description": "Printing on code tour",
+      "line": 5
+    }
+  ]
+}
